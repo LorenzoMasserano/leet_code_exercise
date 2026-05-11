@@ -1,6 +1,3 @@
-package com.example.testandroidsecurityproject
-
-
 //kotlinc RemoveElement.kt -include-runtime -d RemoveElement.jar && java -jar RemoveElement.jar
 
 fun main() {

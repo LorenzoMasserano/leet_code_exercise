@@ -1,5 +1,3 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc PalindromeNumber.kt -include-runtime -d PalindromeNumber.jar && java -jar PalindromeNumber.jar
 
 fun main(){

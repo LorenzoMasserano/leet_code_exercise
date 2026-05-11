@@ -1,5 +1,3 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc LongestCommonPrefix.kt -include-runtime -d LongestCommonPrefix.jar && java -jar LongestCommonPrefix.jar
 fun main(){
 

@@ -1,5 +1,3 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc FindTheIndexOfTheFirstOccurrenceInString.kt -include-runtime -d FindTheIndexOfTheFirstOccurrenceInString.jar && java -jar FindTheIndexOfTheFirstOccurrenceInString.jar
 
 fun main(){

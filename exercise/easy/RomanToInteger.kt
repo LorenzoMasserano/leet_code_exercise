@@ -1,5 +1,3 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc RomanToInteger.kt -include-runtime -d RomanToInteger.jar && java -jar RomanToInteger.jar
 
 fun main() {

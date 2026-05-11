@@ -1,5 +1,3 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc TwoSum.kt -include-runtime -d TwoSum.jar && java -jar TwoSum.jar
 
 fun main() {

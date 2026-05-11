@@ -1,8 +1,6 @@
-package com.example.testandroidsecurityproject
-
 //kotlinc ValidParentheses.kt -include-runtime -d ValidParentheses.jar && java -jar ValidParentheses.jar
-fun main(){
 
+fun main(){
 
     isValid("()")
 }
