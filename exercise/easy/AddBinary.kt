@@ -1,4 +1,5 @@
 //kotlinc AddBinary.kt -include-runtime -d AddBinary.jar && java -jar AddBinary.jar
+package leet_code_exercise
 
 fun main() {
     println(addBinary("11","1"))
@@ -15,6 +16,7 @@ fun addBinary(a: String, b: String): String {
         if((a.length -1) - index < 0 && (b.length -1) - index < 0 && carry ==) break
         val fistChar = if((a.length -1) - index >= 0) a[(a.length -1) - index].digitToInt() else 0
         val secondChar = if((b.length -1) - index >= 0) b[(b.length -1) - index].digitToInt() else 0
+        val test = 'c'
 
         index++
 

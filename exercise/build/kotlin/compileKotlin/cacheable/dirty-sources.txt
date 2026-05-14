@@ -1,0 +1,13 @@
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/LongestCommonPrefix.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/FindTheIndexOfTheFirstOccurrenceInString.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/LenghtOfLastWord.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/RemoveElement.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/PalindromeNumber.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/ValidParentheses.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/SearchInsertPosition.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/AddBinary.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/PlusOne.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/build.gradle.kts
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/TwoSum.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/Sqrt_x.kt
+/Users/lorenzo.masserano/My project/kotlin_porject/leet_code_exercise/exercise/easy/RomanToInteger.kt
